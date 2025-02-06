@@ -3,7 +3,7 @@
 
 
 - 👋 Hi, I’m @Dopamine77
-- 🌱 I’m currently learning html,css,javascript.
+- 🌱 I will keep learning .
 - written by[📫](mailto:2512870290@qq.com)
 
 <!---
